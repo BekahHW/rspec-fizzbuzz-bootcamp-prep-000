@@ -1,4 +1,4 @@
-def fizzbuzz(int) 
+def fizzbuzz() 
   if (int % 5) && (int % 3 == 0)
       puts "FizzBuzz" 
   puts  "Fizz",
